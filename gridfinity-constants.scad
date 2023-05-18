@@ -35,7 +35,7 @@ r_f2 = 2.8;
 // width of divider between compartments
 d_div = 1.2;    
 // minimum wall thickness
-d_wall = 0.95;  
+d_wall = 1.6;  
 // tolerance fit factor 
 d_clear = 0.25; 
 
